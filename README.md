@@ -1,7 +1,6 @@
-# cv
+# Curriculum Vitae with just HTML
 
 
-<h1>Curriculum Vitae</h1>
 <p> 
   This is my first website. ever. It was created solely on HTML for Angela Yu's Web <em><b>Development Bootcamp</b></em>
   
@@ -19,3 +18,5 @@
   </ul>
   
   I was so proud of myself when I published this one, even with it looking like a 90's private site lol!
+  
+  ## Deployed link: https://gnesismrtz.github.io/cv/
